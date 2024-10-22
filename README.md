@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## Heyyo, I'm <a href="" target="_blank">Dhruv</a>!
 Digital craftsman(Developer/Problem_Solver)
-Passionate web developer with experience in designing and developing custom websites using Wix, HTML5, CSS3, and JavaScript. Skilled in client collaboration, SEO, e-commerce setup, and dynamic page creation. Proficient in machine learning and data science, with projects ranging from speech emotion recognition to resume parsing. Enjoys working in fast-paced environments and thrives on problem-solving and continuous learning.
-(Use dark theme to find my socials ;)
+Passionate web developer with experience in designing and developing custom websites using Wix, HTML5, CSS3, and JavaScript. Skilled in client collaboration, SEO, e-commerce setup, and dynamic page creation. Proficient in machine learning and data science, with projects ranging from speech emotion recognition to resume parsing. I enjoy working in fast-paced environments and thrive on problem-solving and continuous learning.
+
 
 
 <a href="[https://linkedin.com/in/aakarshb](https://www.linkedin.com/in/dhruv-rajput-153357200/)" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
@@ -75,7 +75,7 @@ Passionate web developer with experience in designing and developing custom webs
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4odGB283pgwsBUCYmjpXRq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](<iframe style="border-radius:12px" src="https://open.spotify.com/track/4odGB283pgwsBUCYmjpXRq?si=1452f9fdc9e5454c"></iframe>)
 <br/>
 ---
 
