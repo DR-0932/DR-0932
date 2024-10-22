@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Dhruv_Rajput
+Digital craftsman(Developer/Problem_Solver)
+Passionate web developer with experience in designing and developing custom websites using Wix, HTML5, CSS3, and JavaScript. Skilled in client collaboration, SEO, e-commerce setup, and dynamic page creation. Proficient in machine learning and data science, with projects ranging from speech emotion recognition to resume parsing. Enjoys working in fast-paced environments and thrives on problem-solving and continuous learning.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-0932&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png">
