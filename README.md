@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+<img src="https://img.freepik.com/free-photo/life-is-journey-exploration-adventure-traveling_53876-121009.jpg?t=st=1729630955~exp=1729634555~hmac=3ccb7a3be9a92c1328e047c8dff28d75ca00af29b4aa1b2f47c816902a2298cb&w=1380">
 <br/>
 <br/>
 
