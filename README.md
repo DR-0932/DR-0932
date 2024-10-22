@@ -73,7 +73,7 @@ Passionate web developer with experience in designing and developing custom webs
 
 
 
-### Now Playing 🎧
+<!--### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](<iframe style="border-radius:12px" src="https://open.spotify.com/track/4odGB283pgwsBUCYmjpXRq?si=1452f9fdc9e5454c"></iframe>)
 <br/>
