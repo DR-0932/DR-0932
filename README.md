@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="" target="_blank">Dhruv</a>!
+
 Digital craftsman(Developer/Problem_Solver)
 Passionate web developer with experience in designing and developing custom websites using node.js,MongoDB,React, HTML5, CSS3, and JavaScript. Skilled in client collaboration, SEO, e-commerce setup, and dynamic page creation. Proficient in machine learning and data science, with projects ranging from speech emotion recognition to resume parsing. I enjoy working in fast-paced environments and thrive on problem-solving and continuous learning.
 
